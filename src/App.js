@@ -1,6 +1,5 @@
 import "./App.css";
 import React from "react";
-import { clear } from "@testing-library/user-event/dist/clear";
 
 function App() {
   const [calc, setCalc] = React.useState("");
